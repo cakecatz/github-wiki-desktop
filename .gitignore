@@ -1,0 +1,8 @@
+.imdone/
+*.tags
+.DS_Store
+/vendor
+*.log
+node_modules/
+src/renderer/semantic
+app/
